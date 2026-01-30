@@ -87,3 +87,5 @@
 - LinkedIn: https://linkedin.com/in/username  
 
 데이터와 AI를 활용해 **현실적인 문제를 해결하는 서비스**에 관심이 있다면 언제든 연결을 환영합니다.
+
+프로젝트명: 111
