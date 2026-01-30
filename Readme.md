@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-금융기관 및 보증기관 실무 경험을 바탕으로  
+금융기관 및 공공기관 실무 경험을 바탕으로  
 **데이터 기반 의사결정**, **업무 자동화**, **판단 로직의 구조화**에 강점을 가지고 있습니다.
 
 - 금융·재무 데이터에 대한 높은 이해도
@@ -82,10 +82,10 @@
 
 ## 📞 Contact
 
-- Email: example@email.com  
-- GitHub: https://github.com/username  
+- Email: rlatjdals310@gmail.com  
+- GitHub: https://github.com/sungmin-kim310
 - LinkedIn: https://linkedin.com/in/username  
 
 데이터와 AI를 활용해 **현실적인 문제를 해결하는 서비스**에 관심이 있다면 언제든 연결을 환영합니다.
 
-프로젝트명: 111
+1. 프로젝트명: 영수증 정산 프로세스 AI 보조 시스템 (까먹) / fa08-1st-Iconic
